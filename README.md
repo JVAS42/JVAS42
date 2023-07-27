@@ -21,8 +21,6 @@
   <a href = "https://drive.google.com/drive/folders/1M49nzLufMGJ809TsQwtF3Dnb3ejTdMqO?usp=drive_link"><img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/jvas42/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="https://www.instagram.com/jvas42" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-
-![Snake animation](https://github.com/JVAS42/JVAS42/blob/output/github-contribution-grid-snake.svg)
  
   
 </div>
