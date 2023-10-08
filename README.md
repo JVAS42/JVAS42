@@ -1,4 +1,4 @@
-## Olá! Eu sou o João Victor ou Jvas!
+## Olá! Eu sou o João Victor, mas pode me chamar Jvas!
 
 <div>
   <a href="https://github.com/JVAS42">
