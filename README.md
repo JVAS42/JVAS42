@@ -6,7 +6,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JVAS42&layout=compact&langs_count=7&theme=jolly"/>
 </div>
 
-<img align="right" alt="Coding" width="280" src="https://media.tenor.com/q4L3wKD-P7YAAAAi/hydra-we-bhack.gif">
+<img align="right" alt="Coding" width="200" src="https://media.tenor.com/q4L3wKD-P7YAAAAi/hydra-we-bhack.gif">
 
     
 <h3>Technology I'm Studying</h3>
