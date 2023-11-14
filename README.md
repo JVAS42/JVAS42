@@ -4,7 +4,6 @@
   <a href="https://github.com/JVAS42">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JVAS42&show_icons=true&theme=jolly&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JVAS42&layout=compact&langs_count=7&theme=jolly"/>
-  <img align="right" alt="Coding" width="280" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 </div>
     
 <h3>Technology I'm Studying</h3>
