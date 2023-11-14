@@ -4,8 +4,8 @@
   <a href="https://github.com/JVAS42">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JVAS42&show_icons=true&theme=jolly&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JVAS42&layout=compact&langs_count=7&theme=jolly"/>
+  <img align="right" alt="Coding" width="280" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 </div>
-<div align="right" class="tenor-gif-embed" data-postid="20860697" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/hydra-we-bhack-gif-20860697">Hydra We Bhack Sticker</a>from <a href="https://tenor.com/search/hydra+we+bhack-stickers">Hydra We Bhack Stickers</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
     
 <h3>Technology I'm Studying</h3>
 <div style="display: inline_block"><br>
