@@ -27,7 +27,7 @@
 <summary>Mais... </summary>
 
 <h3 id="motivation">🔥 Motivação</h3>
-<p>CA tecnologia sempre me chamou a atenção, todas as informações, programas e jogos para descobrir e isso era incrível. Depois de um tempo, tornou-se comum pensar (sem nenhum conhecimento técnico) como eram feitas aquelas coisas, como falta isso: como eu clico aperto tal botão e aparece meu inventario no jogo, falta aquele recurso nesta página, etc.
+<p>A tecnologia sempre me chamou a atenção, todas as informações, programas e jogos para descobrir e isso era incrível. Depois de um tempo, tornou-se comum pensar (sem nenhum conhecimento técnico) como eram feitas aquelas coisas, como falta isso: como eu clico aperto tal botão e aparece meu inventario no jogo, falta aquele recurso nesta página, etc.
 
 Então, foi isso que me vez ir para área da tecnologia, e estou sempre buscando melhorar minhas habilidades, desenvolver é a coisa mais próximas que temos dos superpoderes.
 </p>
