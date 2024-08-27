@@ -7,7 +7,7 @@
 <ul>
 <li><p>🔭 Atualmente cursando <strong>Ciência da Computação</strong> na Universidade Estaduel da Paraíba</p>
 </li>
-<li><p>🧑‍💻 Atualmente estou interessado em aprender mais sobre <strong>Java Web Full-Stack</strong></p>
+<li><p>🧑‍💻 Atualmente estou trabalhando em um PIBIC com tema <strong>Revolução Digital no Brasil: Impacto da Inteligência Artificial no Mercado de Trabalho</strong></p>
 </li>
 <li><p>💬 Gostariar de me perguntar sobre alguma coisa?</p>
 </li>
@@ -33,46 +33,39 @@ Então, foi isso que me vez ir para área da tecnologia, e estou sempre buscando
 </p>
 <br>
 
-<h3 id="the-web-developer-way">🖥️ O Desenvolvimento web e seus motivos</h3>
-<p>Quando criança sempre adorei jogos e computadores, mas também atividades ao ar livre e esportes. E quando mais velho finalmente decidir fazer uma graduação em Ciência da Computação.
+<h3 id="the-web-developer-way">🖥️ O Desenvolvimento e Inteligência Artificial</h3>
+<p>Desde criança, sempre fui fascinado por tecnologia e computadores, mas também apreciava atividades ao ar livre e esportes. À medida que fui crescendo, essa paixão pela tecnologia se intensificou, levando-me a escolher a graduação em Ciência da Computação.
 
-Na minha graduação tive meu tempo e experiências com algumas disciplinas, e em algumas delas como Linguagem de Programação II e Tecnologias de Desenvolvimento de Interface Gráfica e gostei bastantes das coisas ensinadas nela (Java, HTML, CSS E JavaScript), um pouco estressante, mas fora isso muito agradável e gratificante e pensei como poderia juntar essas duas coisas e resposta foi <strong>desenvolvimento web</strong>.
+Durante minha graduação, tive contato com diversas disciplinas que moldaram meu caminho. Entre elas, as que mais me marcaram foram Linguagem de Programação II e Tecnologias de Desenvolvimento de Interface Gráfica. Aprender Java, HTML, CSS e JavaScript foi desafiador e, ao mesmo tempo, muito recompensador. Foi nesse período que comecei a pensar em como poderia unir meu interesse por tecnologia e minha curiosidade sobre o futuro do desenvolvimento. A resposta para mim foi clara: Inteligência Artificial.
+
+Hoje, sei que o futuro está intimamente ligado à Inteligência Artificial e às tecnologias que a tornam possível. Integrar IA em aplicações web, explorar machine learning e desenvolver algoritmos capazes de aprender e se adaptar é o que mais me fascina agora. A cada novo projeto, vejo como essa área é dinâmica, desafiadora e, ao mesmo tempo, incrivelmente gratificante.
 </p>
 <br>
 
 <h2 id="stack">💻 Tecnologias que tenho interesse e estudo</h2>
-<h3 id="languages">Linguagens de programação</h3>
+<h3 id="languages">Desenvolvimento</h3>
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" height="50" alt="java logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height="50" alt="python logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" alt="javascript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="50" alt="mysql logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="50" alt="Typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50" alt="css3 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" height="50" alt="postgresql logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="50" alt="linux logo"  />
+  <img width="12" />
 </div>
 
 <br>
 
 <h3 id="frameworks">Frameworks</h3>
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" height="50" alt="spring logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" height="50" alt="pandas logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="50" alt="mysql logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" height="50" alt="numpy logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/mongodb/47A248" height="50" alt="mongodb logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original.svg" height="50" alt="pytorch logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" height="50" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="50" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="50" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/bootstrap/7952B3" height="50" alt="bootstrap logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/opencv/opencv-original.svg" height="50" alt="opencv logo"  />
   <img width="12" />
 </div>
 
@@ -80,13 +73,11 @@ Na minha graduação tive meu tempo e experiências com algumas disciplinas, e e
 
 <h3 id="software">Software</h3>
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" height="50" alt="intellij logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pycharm/pycharm-original.svg" height="50" alt="pycharm logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="50" alt="vscode logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg" height="50" alt="jupyter logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/postman/FF6C37" height="50" alt="postman logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/ubuntu/E95420" height="50" alt="ubuntu logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original-wordmark.svg" height="50" alt="ubuntu logo"  />
   <img width="12" />
 </div>
 
