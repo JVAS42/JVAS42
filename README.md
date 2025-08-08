@@ -21,8 +21,6 @@
 </li>
 </ul>
 <h2 id="about-me">Sobre Mim</h2>
-<details>
-<summary>Mais... </summary>
 
 <h3 id="the-web-developer-way">🚀 Motivação</h3>
 <p>Desde criança, sempre fui fascinado por tecnologia e computadores, mas também apreciava atividades ao ar livre e esportes. À medida que fui crescendo, essa paixão pela tecnologia se intensificou, levando-me a escolher a graduação em Ciência da Computação.
