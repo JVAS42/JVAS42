@@ -5,16 +5,17 @@
 <br>
 
 <ul>
-<li><p>🔭 Atualmente cursando <strong>Ciência da Computação</strong> na <strong>Universidade Estaduel da Paraíba</strong>strong></p>
+<li><p>🔭 Atualmente cursando <strong>Ciência da Computação</strong> na <strong>Universidade Estaduel da Paraíba</strong></p>
 </li>
-<li><p>🧑‍💻 Atualmente estou trabalhando em um PIBIC com tema <strong>Revolução Digital no Brasil: Impacto da Inteligência Artificial no Mercado de Trabalho</strong> e <strong>Bolsa Futuro Digital do Softex Pernambuco</strong></p>
 <li><p>📫 Como entrar em contato comigo:</p>
 <div> 
   <a href = "mailto:jvasprogramando@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href = "https://t.me/jvas42" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a>
-  <a href = "https://drive.google.com/drive/folders/1M49nzLufMGJ809TsQwtF3Dnb3ejTdMqO?usp=drive_link" target="_blank"><img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/jvas42/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://www.instagram.com/jvas42" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+</div>
+<li><p>🗂️ Meu acervo do curso:</p>
+<div> 
+  <a href = "https://drive.google.com/drive/folders/1M49nzLufMGJ809TsQwtF3Dnb3ejTdMqO?usp=drive_link" target="_blank"><img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" target="_blank"></a>
 </div>
 
 </li>
@@ -23,7 +24,7 @@
 <details>
 <summary>Mais... </summary>
 
-<h3 id="the-web-developer-way">🐧 Motivação</h3>
+<h3 id="the-web-developer-way">🚀 Motivação</h3>
 <p>Desde criança, sempre fui fascinado por tecnologia e computadores, mas também apreciava atividades ao ar livre e esportes. À medida que fui crescendo, essa paixão pela tecnologia se intensificou, levando-me a escolher a graduação em Ciência da Computação.
 
 Durante minha graduação, tive contato com diversas disciplinas que moldaram meu caminho. Entre elas, as que mais me marcaram foram Linguagem de Programação II e Tecnologias de Desenvolvimento de Interface Gráfica. Aprender Java, HTML, CSS e JavaScript foi desafiador e, ao mesmo tempo, muito recompensador. Foi nesse período que comecei a pensar em como poderia unir meu interesse por tecnologia e minha curiosidade sobre o futuro do desenvolvimento. A resposta para mim foi clara: Inteligência Artificial.
@@ -43,12 +44,16 @@ Hoje, sei que o futuro está intimamente ligado à Inteligência Artificial e à
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="50" alt="linux logo"  />
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="50" alt="aws logo"  />
+  <img width="12" />
 </div>
 
 <br>
 
 <h3 id="frameworks">Frameworks</h3>
 <div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" height="50" alt="pandas logo"  />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" height="50" alt="pandas logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" height="50" alt="numpy logo"  />
