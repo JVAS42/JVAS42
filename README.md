@@ -15,19 +15,14 @@
 </div>
 <li><p>🗂️ Meu acervo do curso:</p>
 <div> 
-  <a href = "https://drive.google.com/drive/folders/1M49nzLufMGJ809TsQwtF3Dnb3ejTdMqO?usp=drive_link" target="_blank"><img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" target="_blank"></a>
+  <a href = "https://drive.google.com/drive/folders/1NTvARHtG5O288XmXabTg3z1-M2ezAbW1?usp=drive_link" target="_blank"><img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" target="_blank"></a>
 </div>
 
 </li>
 </ul>
 <h2 id="about-me">Sobre Mim</h2>
-
-<h3 id="the-web-developer-way">🚀 Motivação</h3>
-<p>Desde criança, sempre fui fascinado por tecnologia e computadores, mas também apreciava atividades ao ar livre e esportes. À medida que fui crescendo, essa paixão pela tecnologia se intensificou, levando-me a escolher a graduação em Ciência da Computação.
-
-Durante minha graduação, tive contato com diversas disciplinas que moldaram meu caminho. Entre elas, as que mais me marcaram foram Linguagem de Programação II e Tecnologias de Desenvolvimento de Interface Gráfica. Aprender Java, HTML, CSS e JavaScript foi desafiador e, ao mesmo tempo, muito recompensador. Foi nesse período que comecei a pensar em como poderia unir meu interesse por tecnologia e minha curiosidade sobre o futuro do desenvolvimento. A resposta para mim foi clara: Inteligência Artificial.
-
-Hoje, sei que o futuro está intimamente ligado à Inteligência Artificial e às tecnologias que a tornam possível. Integrar IA em aplicações web, explorar machine learning e desenvolver algoritmos capazes de aprender e se adaptar é o que mais me fascina agora. A cada novo projeto, vejo como essa área é dinâmica, desafiadora e, ao mesmo tempo, incrivelmente gratificante.
+<p>
+Desde pequeno sempre fui fascinado por tecnologia e passava horas jogando. Com o tempo, percebi que poderia transformar essa paixão em profissão, o que me levou a seguir o caminho da Computação. Hoje, meu maior interesse está em Ciência de Dados e Inteligência Artificial, áreas que considero essenciais para o futuro. Minha linguagem favorita se tornou o Python, pela sua versatilidade e potencial no desenvolvimento de soluções inteligentes.
 </p>
 <br>
 
