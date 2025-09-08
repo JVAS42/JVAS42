@@ -5,7 +5,7 @@
 <br>
 
 <ul>
-<li><p>🔭 Atualmente cursando <strong>Ciência da Computação</strong> na <strong>Universidade Estaduel da Paraíba</strong></p>
+<li><p>🔭 Atualmente cursando <strong>Ciência da Computação</strong> na <strong>Universidade Estadual da Paraíba</strong></p>
 </li>
 <li><p>📫 Como entrar em contato comigo:</p>
 <div> 
