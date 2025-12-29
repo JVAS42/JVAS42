@@ -1,67 +1,61 @@
 <p align="center"><img src="https://github.com/JVAS42/JVAS42/blob/main/src/icon-dev.gif" alt="Jvas Dev Banner"></p>
 <h1 align="center">Olá 👋, Me Chamo João Victor</h1>
-<h3 align="center">E sou um estudante de Ciência da Computação</h3>
+<h3 align="center">Estudante de Ciência da Computação | Python, Dados e Desenvolvimento Web </h3>
+<p align="center"> 📄 <a href="https://drive.google.com/file/d/1U9pFLOD5P6_qyJicG6OF8MEMolPS0Qp5/view?usp=drive_link" target="_blank"> Currículo || Resume </a> </p>
 
-<br>
+---
 
-<ul>
-<li><p>🔭 Atualmente cursando <strong>Ciência da Computação</strong> na <strong>Universidade Estadual da Paraíba</strong></p>
-</li>
-<li><p>📫 Como entrar em contato comigo:</p>
-<div> 
+<div align="center">
+
+  <!-- GitHub stats lado a lado usando table -->
+  <p>
+    <picture>
+      <source
+        srcset="https://github-readme-stats-fast.vercel.app/api?username=JVAS42&show_icons=true&theme=tokyonight"
+        media="(prefers-color-scheme: dark)"
+      />
+      <source
+        srcset="https://github-readme-stats-fast.vercel.app/api?username=JVAS42&show_icons=true"
+        media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+      />
+      <img height="180em" src="https://github-readme-stats-fast.vercel.app/api?username=JVAS42&show_icons=true" />
+    </picture>
+  </p>
+
+---
+
+</div>
+
+<h3 align="center">💡 Interesses e Skills:</h3>
+<div align="center" valign="top"><br>
+  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="django" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg">
+  <img align="center" alt="numpy" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original-wordmark.svg">
+  <img align="center" alt="pandas" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original-wordmark.svg">
+  <img align="center" alt="mysql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg">
+  <img align="center" alt="postgresql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg">
+  <img align="center" alt="AWS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg">
+  <img align="center" alt="git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+  <img align="center" alt="linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
+</div><br><br>
+
+---
+
+<div align="center">
+  <p><b>📫 Conecte-se comigo</b></p>
   <a href="https://www.linkedin.com/in/jvas42/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href = "mailto:jvasprogramando@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href = "https://t.me/jvas42" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a>
+  <p><b>🗂️ Acervo do curso:</b></p>
+  <div> 
+    <a href = "https://drive.google.com/drive/folders/1NTvARHtG5O288XmXabTg3z1-M2ezAbW1?usp=drive_link" target="_blank"><img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" target="_blank"></a>
+  </div>
 </div>
-<li><p>🗂️ Meu acervo do curso:</p>
-<div> 
-  <a href = "https://drive.google.com/drive/folders/1NTvARHtG5O288XmXabTg3z1-M2ezAbW1?usp=drive_link" target="_blank"><img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" target="_blank"></a>
-</div>
+<div align="center">
 
-</li>
-</ul>
-<h2 id="about-me">Sobre Mim</h2>
-<p>
-Desde pequeno sempre fui fascinado por tecnologia e passava horas jogando. Com o tempo, percebi que poderia transformar essa paixão em profissão, o que me levou a seguir o caminho da Computação. Hoje, meu maior interesse está em Ciência de Dados e Inteligência Artificial, áreas que considero essenciais para o futuro. Minha linguagem favorita se tornou o Python, pela sua versatilidade e potencial no desenvolvimento de soluções inteligentes.
-</p>
-<br>
-
-<h2 id="stack">💻 Tecnologias que tenho interesse e estudo</h2>
-<h3 id="languages">Desenvolvimento</h3>
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height="50" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="50" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" height="50" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="50" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="50" alt="aws logo"  />
-  <img width="12" />
-</div>
-
-<br>
-
-<h3 id="frameworks">Frameworks</h3>
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" height="50" alt="pandas logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" height="50" alt="pandas logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" height="50" alt="numpy logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original.svg" height="50" alt="pytorch logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/opencv/opencv-original.svg" height="50" alt="opencv logo"  />
-  <img width="12" />
-</div>
-
-<br>
-
-<h2 id="stats">📈 Minhas Atividades</h2>
-<div align=center>
-  <a href="https://github.com/JVAS42">
-  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=JVAS42&show_icons=true&theme=jolly&include_all_commits=true&count_private=true"/>
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JVAS42&layout=compact&langs_count=7&theme=jolly"/>
+  ![Snake animation](https://github.com/danielbped/danielbped/blob/output/github-contribution-grid-snake.svg)
+  
 </div>
