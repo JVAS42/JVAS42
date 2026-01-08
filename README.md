@@ -1,7 +1,7 @@
 <p align="center"><img src="https://github.com/JVAS42/JVAS42/blob/main/src/icon-dev.gif" alt="Jvas Dev Banner"></p>
 <h1 align="center">Olá 👋, Me Chamo João Victor</h1>
 <h3 align="center">Estudante de Ciência da Computação | Python, Dados e Desenvolvimento Web </h3>
-<p align="center"> 📄 <a href="https://drive.google.com/file/d/1U9pFLOD5P6_qyJicG6OF8MEMolPS0Qp5/view?usp=drive_link" target="_blank"> Currículo || Resume </a> </p>
+<p align="center"> 📄 <a href="https://drive.google.com/file/d/1iL-YHNx08NzqKz01A2wgKoX1fGwTnyVV/view?usp=drive_link"> Currículo || Resume </a> </p>
 
 ---
 
@@ -47,7 +47,7 @@
 <div align="center">
   <p><b>📫 Conecte-se comigo</b></p>
   <a href="https://www.linkedin.com/in/jvas42/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href = "mailto:jvasprogramando@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href = "mailto:joao.araujo.silva.work@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href = "https://t.me/jvas42" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a>
   <p><b>🗂️ Acervo do curso:</b></p>
   <div> 
