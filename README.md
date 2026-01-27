@@ -1,5 +1,5 @@
-<p align="center"><img src="https://github.com/JVAS42/JVAS42/blob/main/src/icon-dev.gif" alt="Jvas Dev Banner"></p>
 <h1 align="center">Olá 👋, Me Chamo João Victor</h1>
+<p align="center"><img src="https://github.com/JVAS42/JVAS42/blob/main/src/icon-dev.gif" alt="Jvas Dev Banner"></p>
 <h3 align="center">Estudante de Ciência da Computação | Python, Dados e Desenvolvimento Web </h3>
 <p align="center"> 📄 <a href="https://drive.google.com/file/d/1iL-YHNx08NzqKz01A2wgKoX1fGwTnyVV/view?usp=drive_link"> Currículo || Resume </a> </p>
 
